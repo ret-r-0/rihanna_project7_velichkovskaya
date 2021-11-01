@@ -395,7 +395,7 @@ iframe {
         left: 9%;
         right: 10%;
         width: 95%;
-        height: 38vh;
+        height: 25vh;
         background-color: #ffffff;
   }
   #accordionFlushExample {
@@ -409,12 +409,12 @@ iframe {
   }
   #about p{
     font-family: "MyWebFont";
-    font-size: 38%;
+    font-size: 29%;
   }
 #about{
   left:0%;
   width: 43;
-  top:2%;
+  top:0%;
 }
   #about2 p{
     font-family: "MyWebFont";
