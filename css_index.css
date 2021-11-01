@@ -356,13 +356,19 @@ width: 98%;
 @media only screen and (max-width: 470px){
   #wr {
     position: relative;
-    top: 4vh;
-    left: 11%;
-    right: 10%;
-    width: 82%;
-    height: 38vh;
-    background-color: #ffffff;
+        top: 4vh;
+        left: 9%;
+        right: 10%;
+        width: 95%;
+        height: 38vh;
+        background-color: #ffffff;
   }
+  #accordionFlushExample {
+    position: relative;
+    left: 6.2%;
+    right: 10%;
+    width: 95%;
+}
   #rihanna1{
     left: -3.2%;
   }
@@ -383,6 +389,28 @@ width: 98%;
 #wr2{
   position: relative;
   top: 4vh;
+  left: 9%;
+  right: 10%;
+  width: 95%;
+  height: 35vh;
+  background-color: #ffffff;
+}
+#about2{
+  position: relative;
+width: 54%;
+left: 1%;
+padding-top: 2%;
+height: 100%;
+}
+#rihanna2{
+  position: relative;
+  height: 100%;
+  left: 3%;
+  width: 46%;
+}
+#wr3{
+  position: relative;
+  top: 6vh;
   left: 11%;
   right: 10%;
   width: 82%;
@@ -391,11 +419,11 @@ width: 98%;
 }
 #cards_div{
   width: 100%;
-top: 1%;
+top: 6%;
 left: -13%;
 }
 #card1{
-  height: 53%;
+  height: 51.5%;
 width: 141%;
 }
 #card2{
@@ -411,26 +439,39 @@ width: 141%;
 #carouselExampleControls{
   width: 125%;
 }
+#frames_div{
+  left: -7%;
+}
 iframe{
   height: 35vh;
   width: 147%;
 }
-#accordionFlushExample{
-  left: 8.2%;
+#frames_div{
+  left: -7%;
+}
+.hey{
+  font-size: 16px;
 }
 }
-@media only screen and (max-width: 315px){
+@media only screen and (max-width: 320px){
   #wr {
     position: relative;
-    top: 4vh;
-    left: 11%;
-    right: 10%;
-    width: 82%;
-    height: 38vh;
-    background-color: #ffffff;
+        top: 4vh;
+        left: 9%;
+        right: 10%;
+        width: 95%;
+        height: 38vh;
+        background-color: #ffffff;
   }
+  #accordionFlushExample {
+    position: relative;
+    left: 6.2%;
+    right: 10%;
+    width: 95%;
+  }
+
   #rihanna1{
-    left: -3.2%;
+    left: -3.7%;
   }
   #about p{
     font-family: "MyWebFont";
@@ -446,22 +487,28 @@ iframe{
     font-size: 34%;
     width: 100%;
   }
-#wr2{
-  position: relative;
-  top: 4vh;
-  left: 11%;
-  right: 10%;
-  width: 82%;
-  height: 35vh;
-  background-color: #ffffff;
-}
+  #wr2{
+    position: relative;
+    top: 4vh;
+    left: 9%;
+    right: 10%;
+    width: 95%;
+    height: 35vh;
+    background-color: #ffffff;
+  }
+  #rihanna2{
+    position: relative;
+    height: 100%;
+    left: 3.9%;
+    width: 46%;
+  }
 #cards_div{
   width: 100%;
 top: 1%;
 left: -13%;
 }
 #card1{
-  height: 52%;
+  height: 54%;
 width: 141%;
 }
 #card2{
@@ -480,5 +527,8 @@ width: 141%;
 iframe{
   height: 35vh;
   width: 147%;
+}
+.hey{
+  font-size: 13px;
 }
 }
