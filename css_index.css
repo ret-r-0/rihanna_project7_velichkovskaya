@@ -1,0 +1,355 @@
+@font-face{
+
+font-family: 'MyWebFont';
+
+url('Gilroy.woff') format('woff');
+
+}
+#about p{
+font-family: "MyWebFont";
+font-size: 25px;
+}
+span {
+  font-weight: bold;
+}
+body{
+  padding: 0;
+  background-color: #0A0F23;
+}
+#wr{
+  position: relative;
+  top: 4vh;
+  left: 11%;
+  right: 10%;
+  width: 82%;
+  height: 80vh;
+  background-color: #ffffff;
+}
+#about{
+  position: relative;
+  width: 40%;
+  left: 5%;
+  padding-top: 2%;
+  height: 100%;
+}
+#rihanna1{
+position: relative;
+left: -1.1%;
+height: 100%;
+width: 52%;
+}
+main {
+  position: relative;
+  top:4vh;
+}
+#accordionFlushExample{
+  position: relative;
+  left: 10.2%;
+  right: 10%;
+  width: 82%;
+}
+#but1{
+  background-color: #0A0F23;
+  border: none;
+    color: white;
+}
+#but2{
+  background-color: #0A0F23;
+    color: white;
+}
+#but3{
+  background-color: #0A0F23;
+    color: white;
+}
+#collapseOne{
+background-color: #0A0F23;
+}
+#collapseTwo{
+background-color: #0A0F23;
+}
+#collapseThree{
+background-color: #0A0F23;
+}
+.hey{
+  font-family: "MyWebFont";
+  font-size: 20px;
+  color: white;
+}
+h2{
+  font-family: "MyWebFont";
+  font-size: 25px;
+  color: white;
+}
+#wr2{
+  position: relative;
+  top: 4vh;
+  left: 11%;
+  right: 10%;
+  width: 82%;
+  height: 85vh;
+  background-color: #ffffff;
+}
+#about2{
+  position: relative;
+  width: 60%;
+  left: 1%;
+  padding-top: 2%;
+  height: 100%;
+}
+#rihanna2{
+  position: relative;
+  height: 100%;
+  left: 1.2%;
+  width: 40%;
+}
+#about2 p{
+  font-family: "MyWebFont";
+  font-size: 23px;
+}
+.w-100{
+  height: 120vh;
+}
+#carouselExampleControls{
+  position: relative;
+
+}
+#wr3{
+  position: relative;
+  width: 100%;
+  left: 0%;
+    top: 5%;
+}
+#carus_div{
+  position: relative;
+  left: -1%;
+}
+#cards_div{
+  width: 50%;
+position: relative;
+left: 5.5%;
+}
+#card1{
+  position: relative;
+  width: 50%;
+  height: 35%;
+  width: 100%;
+}
+.card-text{
+  font-family: "MyWebFont";
+  font-size: 20px;
+}
+#frames_div{
+  position: relative;
+  top:1%;
+  left: -4%;
+}
+#vid2{
+  position: relative;
+  top:5%;
+}
+iframe{
+  height: 40vh;
+  width: 109%;
+}
+@media only screen and (max-width: 1100px){
+#wr2{
+    position: relative;
+    top: 4vh;
+    left: 11%;
+    right: 10%;
+    width: 82%;
+    height: 79vh;
+    background-color: #ffffff;
+  }
+#about p{
+  font-family: "MyWebFont";
+  font-size: 23px;
+}
+#about2 p{
+  font-family: "MyWebFont";
+  font-size: 21px;
+}
+.w-100{
+  height: 85vh;
+}
+}
+
+@media only screen and (max-width: 994px){
+  #wr {
+    position: relative;
+    top: 4vh;
+    left: 11%;
+    right: 10%;
+    width: 82%;
+    height: 60vh;
+    background-color: #ffffff;
+  }
+  #about p{
+    font-family: "MyWebFont";
+    font-size: 21px;
+  }
+
+  #about2 p{
+    font-family: "MyWebFont";
+    font-size: 17.5px;
+  }
+#wr2{
+  position: relative;
+  top: 4vh;
+  left: 11%;
+  right: 10%;
+  width: 82%;
+  height: 61vh;
+  background-color: #ffffff;
+}
+#wr3{
+  width: 110%;
+}
+#carus_div{
+  width: 100%;
+}
+#carouselExampleControls{
+  width: 106%;
+}
+.w-100{
+  height: 90vh;
+}
+#cards_div{
+  width: 100%;
+  top: 1%;
+  left: 0%;
+
+}
+#card1{
+  width: 99%;
+      height: 52%;
+}
+#card2{
+width: 98%;
+}
+}
+@media only screen and (max-width: 900px){
+  #wr {
+    position: relative;
+    top: 4vh;
+    left: 11%;
+    right: 10%;
+    width: 82%;
+    height: 56vh;
+    background-color: #ffffff;
+  }
+  #about p{
+    font-family: "MyWebFont";
+    font-size: 19px;
+  }
+
+  #about2 p{
+    font-family: "MyWebFont";
+    font-size: 14.5px;
+  }
+#wr2{
+  position: relative;
+  top: 4vh;
+  left: 11%;
+  right: 10%;
+  width: 82%;
+  height: 46vh;
+  background-color: #ffffff;
+}
+}
+@media only screen and (max-width: 820px){
+  #wr {
+    position: relative;
+    top: 4vh;
+    left: 11%;
+    right: 10%;
+    width: 82%;
+    height: 50vh;
+    background-color: #ffffff;
+  }
+  #about p{
+    font-family: "MyWebFont";
+    font-size: 17px;
+  }
+
+  #about2 p{
+    font-family: "MyWebFont";
+    font-size: 13px;
+  }
+#wr2{
+  position: relative;
+  top: 4vh;
+  left: 11%;
+  right: 10%;
+  width: 82%;
+  height: 43vh;
+  background-color: #ffffff;
+}
+}
+@media only screen and (max-width: 695px){
+  #wr {
+    position: relative;
+    top: 4vh;
+    left: 11%;
+    right: 10%;
+    width: 82%;
+    height: 42vh;
+    background-color: #ffffff;
+  }
+  #about p{
+    font-family: "MyWebFont";
+    font-size: 14px;
+  }
+
+  #about2 p{
+    font-family: "MyWebFont";
+    font-size: 11px;
+  }
+#wr2{
+  position: relative;
+  top: 4vh;
+  left: 11%;
+  right: 10%;
+  width: 82%;
+  height: 38vh;
+  background-color: #ffffff;
+}
+#card1{
+  height: 54%;
+}
+}
+@media only screen and (max-width: 620px){
+  #wr {
+    position: relative;
+    top: 4vh;
+    left: 11%;
+    right: 10%;
+    width: 82%;
+    height: 38vh;
+    background-color: #ffffff;
+  }
+  #about p{
+    font-family: "MyWebFont";
+    font-size: 12px;
+  }
+
+  #about2 p{
+    font-family: "MyWebFont";
+    font-size: 10px;
+  }
+#wr2{
+  position: relative;
+  top: 4vh;
+  left: 11%;
+  right: 10%;
+  width: 82%;
+  height: 35vh;
+  background-color: #ffffff;
+}
+#card1{
+  height: 54%;
+}
+.w-100{
+  height: 80vh;
+}
+}
