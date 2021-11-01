@@ -107,7 +107,7 @@ h2{
   font-size: 23px;
 }
 .w-100{
-  height: 120vh;
+  height: 87vh;
 }
 #carouselExampleControls{
   position: relative;
@@ -115,9 +115,9 @@ h2{
 }
 #wr3{
   position: relative;
-  width: 100%;
-  left: 0%;
-    top: 5%;
+  width: 80%;
+  left: 11%;
+  top: 5.5vh;
 }
 #carus_div{
   position: relative;
@@ -131,7 +131,7 @@ left: 5.5%;
 #card1{
   position: relative;
   width: 50%;
-  height: 35%;
+  height: 42%;
   width: 100%;
 }
 .card-text{
@@ -170,7 +170,25 @@ iframe{
   font-size: 21px;
 }
 .w-100{
-  height: 85vh;
+  height: 70vh;
+}
+#card1{
+  height: 36%;
+}
+#frames_div{
+  position: relative;
+  top:1%;
+  left: -6%;
+}
+iframe{
+  height: 40vh;
+  width: 114%;
+}
+#carus_div{
+  left: -1.5%;
+}
+#cards_div{
+  left: 6.5%;
 }
 }
 
@@ -203,7 +221,8 @@ iframe{
   background-color: #ffffff;
 }
 #wr3{
-  width: 110%;
+  width: 80%;
+top: 6vh;
 }
 #carus_div{
   width: 100%;
@@ -216,7 +235,7 @@ iframe{
 }
 #cards_div{
   width: 100%;
-  top: 1%;
+  top: 3vh;
   left: 0%;
 
 }
@@ -226,6 +245,16 @@ iframe{
 }
 #card2{
 width: 98%;
+}
+#frames_div{
+  position: relative;
+    top: 1%;
+    width: 96%;
+    left: -6%;
+}
+iframe {
+    height: 40vh;
+    width: 121%;
 }
 }
 @media only screen and (max-width: 900px){
@@ -327,6 +356,12 @@ width: 98%;
     width: 82%;
     height: 38vh;
     background-color: #ffffff;
+  }
+  #rihanna1{
+    left: -3%;
+  }
+  #rihanna2{
+    left: 3%;
   }
   #about p{
     font-family: "MyWebFont";
