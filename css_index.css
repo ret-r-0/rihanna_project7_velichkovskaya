@@ -298,12 +298,12 @@ iframe {
   }
   #about p{
     font-family: "MyWebFont";
-    font-size: 17px;
+    font-size: 98%;
   }
 
   #about2 p{
     font-family: "MyWebFont";
-    font-size: 13px;
+    font-size: 11px;
   }
 #wr2{
   position: relative;
@@ -327,7 +327,7 @@ iframe {
   }
   #about p{
     font-family: "MyWebFont";
-    font-size: 14px;
+    font-size: 76%;
   }
 
   #about2 p{
@@ -365,12 +365,12 @@ iframe {
   }
   #about p{
     font-family: "MyWebFont";
-    font-size: 12px;
+    font-size: 52%;
   }
 
   #about2 p{
     font-family: "MyWebFont";
-    font-size: 10px;
+    font-size: 56%;
   }
 #wr2{
   position: relative;
@@ -395,7 +395,7 @@ iframe {
         left: 9%;
         right: 10%;
         width: 95%;
-        height: 25vh;
+        height: 38vh;
         background-color: #ffffff;
   }
   #accordionFlushExample {
@@ -409,12 +409,12 @@ iframe {
   }
   #about p{
     font-family: "MyWebFont";
-    font-size: 29%;
+    font-size: 40%;
   }
 #about{
   left:0%;
   width: 43;
-  top:0%;
+  top:2%;
 }
   #about2 p{
     font-family: "MyWebFont";
